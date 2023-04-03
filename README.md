@@ -20,6 +20,6 @@ node appServer.js
 After that, open up a browser and type in "localhost:3000". Congrats, you can now start comparing! :)
 
 # Examples
-![ExampleImage - solar energy in comparison to wind energy](ExampleImages/screen-Solar/Wind.png)
+![ExampleImage - solar energy in comparison to wind energy](ExampleImages/screen-Solar-Wind.png)
 
-![ExampleImage - OnePlus 7 in comparison to IPhone 14](ExampleImages/screen-Oneplus/Iphone.png)
+![ExampleImage - OnePlus 7 in comparison to IPhone 14](ExampleImages/screen-Oneplus-Iphone.png)
