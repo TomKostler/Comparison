@@ -20,4 +20,4 @@ node appServer.js
 After that, open up a browser and type in "localhost:3000". Congrats, you can now start comparing! :)
 
 # Examples
-![Screenshot](145195.jpg)
+![Screenshot](ExampleImages/145195.jpg)
