@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "compromise": "^14.8.2",
+    "express": "^4.18.2",
+    "node-fetch": "^2.6.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "wiki-infobox-parser": "^0.1.11"
+  }
+}
