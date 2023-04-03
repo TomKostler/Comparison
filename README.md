@@ -12,7 +12,7 @@ This web app makes use of Wikipedia's Rest-API to parse the content of wiki-page
 
 # Make it run
 In order to run it on your computer you simply need to run the appServer.js file via node on your terminal.
-Command in terminal (node.js has to be installed and you have to be in the folder containing "appServer.js"):
+Command in terminal (node.js and the modules "express", "wiki-infobox-parser" and "node-fetch" have to be installed and you have to be in the folder containing "appServer.js".):
 ```
 node appServer.js
 ```
